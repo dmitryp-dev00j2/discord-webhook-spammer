@@ -6,3 +6,5 @@ A tiny CLI for hammering Discord webhooks with repeated messages. I built it to 
 
 No dependencies beyond Python 3.8+.
 
+
+<!-- last-checked: 2026-10-04 -->
